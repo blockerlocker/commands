@@ -1,2 +1,1 @@
-# commands
-Commands from videos on my YouTube channel
+# Commands from my YouTube channel
