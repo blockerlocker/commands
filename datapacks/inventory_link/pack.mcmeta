@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Adds the functionality of Inventory Link as resource pack funcitons instead of command blocks",
+    "pack_format": 75.0
+  }
+}
