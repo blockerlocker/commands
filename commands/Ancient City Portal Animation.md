@@ -5,7 +5,7 @@ First, a scoreboard objective must be created to keep track of the animation. Ru
 /scoreboard objectives add portal_animate dummy
 ```
 
-Next, we must animate the opening sequence. We can do this by first placing an Impulse Command Block in the bottom corner of the portal frame, pasting in the command below, clicking "Always Active", and then clicking "Done". This will spawn an invisible Marker, and give it an `portal_animate` score of 1.
+Next, we must animate the opening sequence. We can do this by first placing an Impulse Command Block in the bottom corner of the portal frame, pasting in the command below, clicking "Always Active", and then clicking "Done". This will spawn an invisible Marker, and give it a `portal_animate` score of 1.
 ```
 execute summon marker run scoreboard players add @e[type=marker,distance=..30] portal_animate 1
 ```
