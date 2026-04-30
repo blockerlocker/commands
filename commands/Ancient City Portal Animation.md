@@ -1,4 +1,4 @@
-These commands let you build an Ancient City portal opening animation, as seen in [this video](https://www.youtube.com/shorts/5OwQGjNDLKo). There is also [this companion resource pack](./resourcepacks/ancient_city_portal.zip) that makes Nether Portals look blue. These commands were made in version 26.1.2, but will likely work in other modern versions of the game.
+These commands let you build an Ancient City portal opening animation, as seen in [this video](https://www.youtube.com/shorts/5OwQGjNDLKo). There is also [this companion resource pack](../resourcepacks/ancient_city_portal.zip) that makes Nether Portals look blue. These commands were made in version 26.1.2, but will likely work in other modern versions of the game.
 
 First, a scoreboard objective must be created to keep track of the animation. Run this command in chat once.
 ```
