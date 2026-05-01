@@ -1,4 +1,4 @@
-These commands allow you to create a very basic version of the Sulfur Cube, as seen in [this video](https://youtube.com/shorts/IJ6KRYVn38s). They were created for 26.1.
+These commands allow you to create a very basic version of the Sulfur Cube, as seen in [this video](https://youtube.com/shorts/IJ6KRYVn38s). They were created for 26.1. If you have any issues, feel free to join my Discord server: https://discord.gg/EBEBtBVKCK
 
 First of all, you'll need to place in a Repeating Command Block and 8 Chain Command Blocks (9 total), with the arrows facing into each other starting from the Repeating Command Block. Make sure all blocks are powered.
 
