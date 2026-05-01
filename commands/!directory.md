@@ -2,6 +2,7 @@
 
 | Guide | Description | Version | Video |
 | --- | --- | --- | --- |
+| [Barrelporters](Barrelporters.md) | Adds special Barrels that can teleport items. | 26.2-snapshot-5 | https://youtube.com/shorts/t8jcq8QVPzU |
 | [Ancient City Portal Animation](Ancient%20City%20Portal%20Animation.md) | Make an Ancient City Portal look like it opens. | 26.1.2 | https://youtube.com/shorts/5OwQGjNDLKo |
 | [Bucket Sulfur Cubes with Dispensers](Bucket%20Sulfur%20Cubes%20with%20Dispensers.md) | Enables Dispensers to bucket Sulfur Cubes. | 26.2-snapshot-2 | https://youtube.com/shorts/-LXZwWP-prI |
 | [Sulfur Cube at Home](Sulfur%20Cube%20at%20Home.md) | A low-budget Sulfur Cube made before 26.2. | 26.1 | https://youtube.com/shorts/IJ6KRYVn38s |
