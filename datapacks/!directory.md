@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [find_random_biome](find_random_biome.zip) | Gives the player a random biome to find. Triggered by running `/trigger find_random_biome` | 26.2-snapshot-5 | https://youtube.com/shorts/CAkbfa5xGX8 |
 | [reach_height_limit](reach_height_limit.zip) | Alerts the player when they reach the height limit. | 26.2-snapshot-5 | https://youtube.com/shorts/1aOKzLIYlQY |
 | [minegrow](minegrow.zip) | When the player breaks a block, the area is larger the next time they mine. This resets on death. | 26.2-snapshot-4 | https://youtube.com/shorts/Ii4qQ0I3Ew0 |
 | [player_magnet](player_magnet.zip) | Players attract entities when holding Sprint and repel entities when holding Sneaking. | 26.2-snapshot-4 | https://youtube.com/shorts/IgaT2JCS4eg |
