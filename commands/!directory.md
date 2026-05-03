@@ -1,4 +1,4 @@
-> Please note that the command tutorials in this repository are only known to work in the version specified. Command syntax sometimes changes, and some of these guides may break in the future. Some syntax changes may be small and easy to fix, but sometimes they are large and require a complete rewrite.
+> Please note that the command tutorials in this repository are only known to work in the version specified. Command syntax sometimes changes, and some of these guides may break in the future. Some syntax changes may be small and easy to fix, but sometimes they are large and require a complete rewrite, which I will likely not do myself.
 
 | Guide | Description | Version | Video |
 | --- | --- | --- | --- |
