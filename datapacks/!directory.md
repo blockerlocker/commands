@@ -1,13 +1,5 @@
-
-
-
-
 > Please note that the data packs in this repository were mainly designed for one-off videos, and are not projects I plan to support in the long-term. Some packs will work in versions besides the one listed below, but if they stop working, I will likely not update them myself.
-| [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
-
-| [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
 | Pack | Description | Version | Video |
-| [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
 | --- | --- | --- | --- |
 | [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
 | [bedrock_world_spawn](bedrock_world_spawn.zip) | Sets the world spawn to be a tiny box at the bottom of the world. | 26.2-snapshot-5 | https://youtube.com/shorts/CfRO54ObEhc |
