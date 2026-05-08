@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [superstack](superstack.zip) | The player is stuck riding a stack of every mob they touch. They can still control the entire stack though. | 26.2-snapshot-6 | https://youtube.com/shorts/gGxeMJztev4 |
 | [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. For convenience, the camera zooms when Sprint and Sneak are held at the same time. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
 | [bedrock_world_spawn](bedrock_world_spawn.zip) | Sets the world spawn to be a tiny box at the bottom of the world. | 26.2-snapshot-5 | https://youtube.com/shorts/CfRO54ObEhc |
 | [find_random_biome](find_random_biome.zip) | Gives the player a random biome to find. Triggered by running `/trigger find_random_biome` | 26.2-snapshot-5 | https://youtube.com/shorts/CAkbfa5xGX8 |
