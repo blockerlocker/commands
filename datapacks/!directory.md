@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [chunk_moves_up](chunk_moves_up.zip) | Chunks move up when player mines a block. | 26.2-snapshot-8 | https://youtube.com/shorts/sIoj3adRvco |
 | [mine_block_lose_recipe](mine_block_lose_recipe.zip) | Players lose the ability to craft a random item every time they mine a block. | 26.2-snapshot-6 | https://youtube.com/shorts/387EOIaUPo0 |
 | [superstack](superstack.zip) | The player is stuck riding a stack of every mob they touch. They can still control the entire stack though. | 26.2-snapshot-6 | https://youtube.com/shorts/gGxeMJztev4 |
 | [long_arms](long_arms.zip) | Gives the player a block reach and entity reach of 64, and items instantly transfer into the player's inventory. For convenience, the camera zooms when Sprint and Sneak are held at the same time. | 26.2-snapshot-5 | https://youtube.com/shorts/AiK6-QFMlPM |
