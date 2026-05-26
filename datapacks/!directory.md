@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [item_random_teleport](item_random_teleport.zip) | The player teleports somewhere random when they pick up an item. | 26.2-snapshot-8 | https://youtube.com/shorts/HKUeZDFB_fA |
 | [chunk_moves_up](chunk_moves_up.zip) | Chunks move up when player mines a block. | 26.2-snapshot-8 | https://youtube.com/shorts/sIoj3adRvco |
 | [mine_block_lose_recipe](mine_block_lose_recipe.zip) | Players lose the ability to craft a random item every time they mine a block. | 26.2-snapshot-6 | https://youtube.com/shorts/387EOIaUPo0 |
 | [superstack](superstack.zip) | The player is stuck riding a stack of every mob they touch. They can still control the entire stack though. | 26.2-snapshot-6 | https://youtube.com/shorts/gGxeMJztev4 |
