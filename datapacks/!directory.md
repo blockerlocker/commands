@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [mine_block_spawn_structure](mine_block_spawn_structure.zip) | A random structure spawns when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/28BSpgjpKdk |
 | [mine_block_lose_item](mine_block_lose_item.zip) | A random item is disabled when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/GNPMaWi2WTQ |
 | [interlaced](interlaced.zip) | Half of all blocks are missing. | 26.2-pre-3 | https://youtube.com/shorts/4kTkeTzU10M |
 | [place_block_lose_block](place_block_lose_block.zip) | When the player places a block, they lose the ability to place a random block. | 26.2-snapshot-8 | https://youtube.com/shorts/wMpDhlxMJvY |
