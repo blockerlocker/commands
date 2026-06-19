@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [findthetnt](findthetnt.zip) | A mini game where players have to find a hidden TNT block with a limited number of guesses. Guesses reveal how far away the TNT is. There are 4 functions for playing the game; `findthetnt:start_game`, `findthetnt:end_game`, `findthetnt:settings`, and `findthetnt:set_world_center`. | 26.2 | https://youtube.com/shorts/tmr8q2GTgyg |
 | [mine_block_spawn_structure](mine_block_spawn_structure.zip) | A random structure spawns when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/28BSpgjpKdk |
 | [mine_block_lose_item](mine_block_lose_item.zip) | A random item is disabled when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/GNPMaWi2WTQ |
 | [interlaced](interlaced.zip) | Half of all blocks are missing. | 26.2-pre-3 | https://youtube.com/shorts/4kTkeTzU10M |
