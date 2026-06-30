@@ -2,12 +2,12 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [place_block_lose_block](place_block_lose_block.zip) | When the player places a block, they lose the ability to place a random block. | 26.3-snapshot-1 | https://youtube.com/shorts/11zUuPTlFvY |
 | [dont_stop_building](dont_stop_building.zip) | The player explodes if they don't place a block for more than 5 seconds. Game starts with `/function dont_stop_building:start` and stops with `/function dont_stop_building:stop` | 26.3-snapshot-1 | https://youtube.com/shorts/7Yx-RApXdx4 |
 | [findthetnt](findthetnt.zip)<br><br>(old, [newer version on Modrinth](https://modrinth.com/datapack/find-the-tnt)) | A mini game where players have to find a hidden TNT block with a limited number of guesses. Guesses reveal how far away the TNT is. There are 4 functions for playing the game; `findthetnt:start_game`, `findthetnt:end_game`, `findthetnt:settings`, and `findthetnt:set_world_center`. | 26.2 | https://youtube.com/shorts/tmr8q2GTgyg |
 | [mine_block_spawn_structure](mine_block_spawn_structure.zip) | A random structure spawns when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/28BSpgjpKdk |
 | [mine_block_lose_item](mine_block_lose_item.zip) | A random item is disabled when the player breaks a block. | 26.2-pre-5 | https://youtube.com/shorts/GNPMaWi2WTQ |
 | [interlaced](interlaced.zip) | Half of all blocks are missing. | 26.2-pre-3 | https://youtube.com/shorts/4kTkeTzU10M |
-| [place_block_lose_block](place_block_lose_block.zip) | When the player places a block, they lose the ability to place a random block. | 26.2-snapshot-8 | https://youtube.com/shorts/wMpDhlxMJvY |
 | [item_random_teleport](item_random_teleport.zip) | The player teleports somewhere random when they pick up an item. | 26.2-snapshot-8 | https://youtube.com/shorts/HKUeZDFB_fA |
 | [chunk_moves_up](chunk_moves_up.zip) | Chunks move up when player mines a block. | 26.2-snapshot-8 | https://youtube.com/shorts/sIoj3adRvco |
 | [mine_block_lose_recipe](mine_block_lose_recipe.zip) | Players lose the ability to craft a random item every time they mine a block. | 26.2-snapshot-6 | https://youtube.com/shorts/387EOIaUPo0 |
