@@ -1,4 +1,4 @@
-These commands can be used to build an animated gate in your creative builds, as seen in [this video](https://youtube.com/shorts/oQVNJjuYoq8). These commands were written in version 1.21.11, but the concept behind this tutorial will work in any versions that have Block Displays, the command syntax might just be a little different. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands can be used to build an animated gate in your creative builds, as seen in [this video](https://youtube.com/shorts/oQVNJjuYoq8). These commands were written in version 1.21.11, but the concept behind this tutorial will work in any versions that have Block Displays, the command syntax might just be a little different. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 ### Step One
 First, place three fences, and shoot an arrow into the middle fence. Then run this command to get the block state in NBT format:
