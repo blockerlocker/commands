@@ -1,4 +1,4 @@
-These commands let you use Dispensers to bucket Sulfur Cubes automatically, as seen in [this video](https://youtube.com/shorts/-LXZwWP-prI). These commands were made in Java 26.2-snapshot-2. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands let you use Dispensers to bucket Sulfur Cubes automatically, as seen in [this video](https://youtube.com/shorts/-LXZwWP-prI). These commands were made in Java 26.2-snapshot-2. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 You'll need to place a Repeating Command Block and 11 Chain Command Blocks (12 total), with the arrows facing into each other starting from the Repeating Command Block. Make sure all blocks are powered. Then in each Command Block, starting with the Repeating Command Block, paste these commands in order.
 
