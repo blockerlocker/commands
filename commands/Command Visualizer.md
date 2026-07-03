@@ -1,4 +1,4 @@
-These commands can be used to easily visualize the commands inside of Command Blocks with an automatically updating Text Display, as seen in [this video](https://youtube.com/shorts/dALL5zALJdM). These commands are confirmed to work in version 26.1, but will probably work in some previous and future versions, too. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands can be used to easily visualize the commands inside of Command Blocks with an automatically updating Text Display, as seen in [this video](https://youtube.com/shorts/dALL5zALJdM). These commands are confirmed to work in version 26.1, but will probably work in some previous and future versions, too. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 First, you need to give yourself a special spawn egg to spawn the Text Display. The Text Display has the `command_vision` tag so we can easily modify it later using our Command Blocks. This command can be run in chat, but if you place it in a Command Block instead to run it, just be sure to change `@s` to `@p`.
 ```
