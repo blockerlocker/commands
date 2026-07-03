@@ -1,4 +1,4 @@
-These are various commands that can be used to increase the number of items that fit in a Bundle, as seen in [this video](https://www.youtube.com/shorts/mApxhEG59ns). The video was recorded in 26.1, though these commands should still work a few versions before that. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These are various commands that can be used to increase the number of items that fit in a Bundle, as seen in [this video](https://www.youtube.com/shorts/mApxhEG59ns). The video was recorded in 26.1, though these commands should still work a few versions before that. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 **Firstly**, you could just give yourself a stack of 99 items like this to be able to store 99 items in a Bundle:
 ```
