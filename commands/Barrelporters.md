@@ -1,4 +1,4 @@
-These commands add Barrelporters to the game, as seen in [this video](https://youtube.com/shorts/t8jcq8QVPzU). This guide first explains how they work, and then how you can add them to your own world. The commands were made in 26.2-snapshot-5. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands add Barrelporters to the game, as seen in [this video](https://youtube.com/shorts/t8jcq8QVPzU). This guide first explains how they work, and then how you can add them to your own world. The commands were made in 26.2-snapshot-5. If you have any issues, feel free to join my Discord server: [https://discord.blocker.locker](https://discord.blocker.locker)
 
 By dropping an Eye of Ender on a Barrel, you create a "Sender Barrelporter", and by dropping an Ender Pearl on a Barrel, you create a "Receiver Barrelporter". Any item placed in a Sender Barrelporter will get teleported to a random Receiver Barrelporter, if there are multiple Receivers.
 
