@@ -1,4 +1,4 @@
-These commands will link the inventories of all players on the server, as seen in [this video](https://youtube.com/shorts/L9B5HDURruQ). These commands were written in version 1.21.11, and will not work in prior versions. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands will link the inventories of all players on the server, as seen in [this video](https://youtube.com/shorts/L9B5HDURruQ). These commands were written in version 1.21.11, and will not work in prior versions. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 The contraption will not activate unless these two commands are run first, to create the scoreboard objectives.
 ```
