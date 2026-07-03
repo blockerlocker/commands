@@ -1,4 +1,4 @@
-Each of these three commands adds Rainbow Armor to Minecraft in different ways, as seen in [this video](https://www.youtube.com/shorts/jj5XvIXx3pE). Put one of these commands in a repeating command block (in a loaded chunk) and it will work for all players on the server. These commands were written in version 26.1, and will not work in prior versions. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+Each of these three commands adds Rainbow Armor to Minecraft in different ways, as seen in [this video](https://www.youtube.com/shorts/jj5XvIXx3pE). Put one of these commands in a repeating command block (in a loaded chunk) and it will work for all players on the server. These commands were written in version 26.1, and will not work in prior versions. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 The first just constantly puts new randomly dyed armor on players, so it would not work well for a survival world.
 ```
