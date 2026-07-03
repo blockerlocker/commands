@@ -1,4 +1,4 @@
-These commands were originally tested in 26.1. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+These commands were originally tested in 26.1. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 To summon mobs with the `/fill` command, we need to fill an area with self-activating Command Blocks by setting the `auto` tag of the Command Block to `true`, which will look something like this;
 ```
