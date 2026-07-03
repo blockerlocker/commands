@@ -1,4 +1,4 @@
-This command adds an entire playable mini-game to the inventory, as seen in [this video](https://youtube.com/shorts/Y23My7aYmjo). The command relies on features added in 1.21.11, and will not work on older versions. If you have any issues, feel free to join my Discord server: [https://discord.gg/EBEBtBVKCK](https://discord.gg/EBEBtBVKCK)
+This command adds an entire playable mini-game to the inventory, as seen in [this video](https://youtube.com/shorts/Y23My7aYmjo). The command relies on features added in 1.21.11, and will not work on older versions. If you have any issues, feel free to join my Discord server: https://discord.blocker.locker
 
 To play, angle your head so that you won't pick up any of the items you drop, and then open your inventory. By simply pressing Q (or whatever Drop is bound to) while hovering your mouse over  any of the Stone items to the far left of your inventory, you can move Steve around. Now try to avoid the Magma Blocks coming in from the right as long as possible!
 
