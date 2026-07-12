@@ -2,6 +2,8 @@
 
 | Guide | Description | Version | Video |
 | --- | --- | --- | --- |
+| [Villager Hats](Villager Hats.md) | Villager hats as items that the player can wear. | 1.21.9+
+(video in 26.3) | https://youtube.com/shorts/7Yx-RApXdx4 |
 | [Barrelporters](Barrelporters.md) | Adds special Barrels that can teleport items. | 26.2-snapshot-5 | https://youtube.com/shorts/t8jcq8QVPzU |
 | [Ancient City Portal Animation](Ancient%20City%20Portal%20Animation.md) | Make an Ancient City Portal look like it opens. | 26.1.2 | https://youtube.com/shorts/5OwQGjNDLKo |
 | [Bucket Sulfur Cubes with Dispensers](Bucket%20Sulfur%20Cubes%20with%20Dispensers.md) | Enables Dispensers to bucket Sulfur Cubes. | 26.2-snapshot-2 | https://youtube.com/shorts/-LXZwWP-prI |
