@@ -2,6 +2,9 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [mine_block_lose_pixels](https://github.com/blockerlocker/mine_block_lose_pixels) | Makes the screen more pixelated every time you mine a block. | 26.3-snapshot-4 | https://youtube.com/shorts/rdfUa0u44Ng |
+| [guesstheitem](https://github.com/blockerlocker/guesstheitem) | Minigame where you have to guess a random item by revealing its texture one pixel at a time. | 26.3-snapshot-4 | https://youtube.com/shorts/cCGA-nJcU9k |
+| [rabbitduck](https://github.com/blockerlocker/rabbitduck) | Gives all players their own unique building prompt, formed from a random verb and a random noun. | 26.2 | https://youtube.com/shorts/WEnizsiim-A |
 | [place_block_lose_block](place_block_lose_block.zip) | When the player places a block, they lose the ability to place a random block. | 26.3-snapshot-1 | https://youtube.com/shorts/11zUuPTlFvY |
 | [dont_stop_building](dont_stop_building.zip) | The player explodes if they don't place a block for more than 5 seconds. Game starts with `/function dont_stop_building:start` and stops with `/function dont_stop_building:stop` | 26.3-snapshot-1 | https://youtube.com/shorts/7Yx-RApXdx4 |
 | [findthetnt](findthetnt.zip)<br><br>(old, [newer version on Modrinth](https://modrinth.com/datapack/find-the-tnt)) | A mini game where players have to find a hidden TNT block with a limited number of guesses. Guesses reveal how far away the TNT is. There are 4 functions for playing the game; `findthetnt:start_game`, `findthetnt:end_game`, `findthetnt:settings`, and `findthetnt:set_world_center`. | 26.2 | https://youtube.com/shorts/tmr8q2GTgyg |
