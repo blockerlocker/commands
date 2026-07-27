@@ -2,6 +2,8 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [spotted](https://github.com/blockerlocker/spotted) | The player is invisible when they stand still, but they instantly die if a mob sees them. | 26.3-snapshot-5 | https://youtube.com/shorts/OlTEnJn19FQ |
+| [use_block_once](https://github.com/blockerlocker/use_block_once) | Every block is locked after being placed once. | 26.3-snapshot-5 | https://youtube.com/shorts/lgU6Oyl-w2U |
 | [mine_block_lose_pixels](https://github.com/blockerlocker/mine_block_lose_pixels) | Makes the screen more pixelated every time you mine a block. | 26.3-snapshot-4 | https://youtube.com/shorts/rdfUa0u44Ng |
 | [guesstheitem](https://github.com/blockerlocker/guesstheitem) | Minigame where you have to guess a random item by revealing its texture one pixel at a time. | 26.3-snapshot-4 | https://youtube.com/shorts/cCGA-nJcU9k |
 | [rabbitduck](https://github.com/blockerlocker/rabbitduck) | Gives all players their own unique building prompt, formed from a random verb and a random noun. | 26.2 | https://youtube.com/shorts/WEnizsiim-A |
