@@ -2,6 +2,7 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [trafficjam](https://github.com/blockerlocker/trafficjam) | A timeloop game where you have to reach a series of randomly ordered goals. | 26.3-snapshot-5 | https://www.youtube.com/shorts/MqF8hur-VIg |
 | [spotted](https://github.com/blockerlocker/spotted) | The player is invisible when they stand still, but they instantly die if a mob sees them. | 26.3-snapshot-5 | https://youtube.com/shorts/OlTEnJn19FQ |
 | [use_block_once](https://github.com/blockerlocker/use_block_once) | Every block is locked after being placed once. | 26.3-snapshot-5 | https://youtube.com/shorts/lgU6Oyl-w2U |
 | [mine_block_lose_pixels](https://github.com/blockerlocker/mine_block_lose_pixels) | Makes the screen more pixelated every time you mine a block. | 26.3-snapshot-4 | https://youtube.com/shorts/rdfUa0u44Ng |
