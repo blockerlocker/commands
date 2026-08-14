@@ -2,7 +2,13 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
-| [trafficjam](https://github.com/blockerlocker/trafficjam) | A timeloop game where you have to reach a series of randomly ordered goals. | 26.3-snapshot-5 | https://www.youtube.com/shorts/MqF8hur-VIg |
+| [big_brick_builder](https://github.com/blockerlocker/big_brick_builder) | Easily construct survival-friendly toy block styled buildings using a custom building system. | 26.3-snapshot-8 | https://youtube.com/shorts/33bxcul4Ftk |
+| [mine_block_disable_update](https://github.com/blockerlocker/mine_block_disable_update) | When the player breaks a block, the blocks, items, and mobs from a random update get removed. | 26.3-snapshot-8 | https://youtube.com/shorts/2Im9EBU_4yQ |
+| [disable_update](https://github.com/blockerlocker/disable_update) | Every 30 seconds, the blocks, items, and mobs from a random update get removed. | 26.3-snapshot-7 | https://youtube.com/shorts/Q5J_f7J4hdQ |
+| [color_match](https://github.com/blockerlocker/color_match) | Minigame where you have to guess block textures from their average colors. | 26.3-snapshot-7 | https://youtube.com/shorts/mYSfDNVSAHU |
+| [sprite_display](https://github.com/blockerlocker/qutils) | Summon Sprite Display entities for building that can contain almost any sprite in the game! | 26.3-snapshot-7 | https://youtube.com/shorts/ESwux1oLad4 | 
+| [mine_block_swap_block](https://github.com/blockerlocker/mine_block_swap_block) | When the player mines a block, all nearby blocks of that type get randomly swapped with something else. | 26.3-snapshot-6 | https://youtube.com/shorts/Exc1JGnTUQ4 |
+| [trafficjam](https://github.com/blockerlocker/trafficjam) | A timeloop game where you have to reach a series of randomly ordered goals. | 26.3-snapshot-5 | https://youtube.com/shorts/MqF8hur-VIg |
 | [spotted](https://github.com/blockerlocker/spotted) | The player is invisible when they stand still, but they instantly die if a mob sees them. | 26.3-snapshot-5 | https://youtube.com/shorts/OlTEnJn19FQ |
 | [use_block_once](https://github.com/blockerlocker/use_block_once) | Every block is locked after being placed once. | 26.3-snapshot-5 | https://youtube.com/shorts/lgU6Oyl-w2U |
 | [mine_block_lose_pixels](https://github.com/blockerlocker/mine_block_lose_pixels) | Makes the screen more pixelated every time you mine a block. | 26.3-snapshot-4 | https://youtube.com/shorts/rdfUa0u44Ng |
