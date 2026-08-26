@@ -2,6 +2,8 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [brickifier](https://github.com/blockerlocker/brickifier) | Convert the world into a toy building block style | 26.3-snapshot-9 | https://youtube.com/shorts/jrWsz843FBw |
+| [random_item_disabled](https://github.com/blockerlocker/random_item_disabled) | Every 5 seconds, a random item is completely disabled. | 26.3-snapshot-9 | https://youtube.com/shorts/lcdGNJ1JgYk |
 | [big_brick_builder](https://github.com/blockerlocker/big_brick_builder) | Easily construct survival-friendly toy block styled buildings using a custom building system. | 26.3-snapshot-8 | https://youtube.com/shorts/33bxcul4Ftk |
 | [mine_block_disable_update](https://github.com/blockerlocker/mine_block_disable_update) | When the player breaks a block, the blocks, items, and mobs from a random update get removed. | 26.3-snapshot-8 | https://youtube.com/shorts/2Im9EBU_4yQ |
 | [disable_update](https://github.com/blockerlocker/disable_update) | Every 30 seconds, the blocks, items, and mobs from a random update get removed. | 26.3-snapshot-7 | https://youtube.com/shorts/Q5J_f7J4hdQ |
