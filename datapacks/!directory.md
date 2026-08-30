@@ -2,6 +2,8 @@
 
 | Pack | Description | Version | Video |
 | --- | --- | --- | --- |
+| [mine_block_increase_drops](https://github.com/blockerlocker/mine_block_increase_drops) | Block drops increase every time the player mines a block. | 26.3-snapshot-10 | https://youtube.com/shorts/GrQIG5LyVhY |
+| [eggblock](https://github.com/blockerlocker/eggblock) | Chickens lay random items. | 26.3-snapshot-10 | https://youtube.com/shorts/0pMm5HQZX7I |
 | [brickifier](https://github.com/blockerlocker/brickifier) | Convert the world into a toy building block style | 26.3-snapshot-9 | https://youtube.com/shorts/jrWsz843FBw |
 | [random_item_disabled](https://github.com/blockerlocker/random_item_disabled) | Every 5 seconds, a random item is completely disabled. | 26.3-snapshot-9 | https://youtube.com/shorts/lcdGNJ1JgYk |
 | [big_brick_builder](https://github.com/blockerlocker/big_brick_builder) | Easily construct survival-friendly toy block styled buildings using a custom building system. | 26.3-snapshot-8 | https://youtube.com/shorts/33bxcul4Ftk |
